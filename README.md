@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/91eac649-d306-4b94-b30b-bb59695f3909)
+
+
+### Name:   SARANYA AV
+### Register Number: 212224040297
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
